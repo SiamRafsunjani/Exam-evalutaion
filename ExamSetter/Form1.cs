@@ -16,10 +16,14 @@ namespace ExamSetter
         public Form1()
         {
             InitializeComponent();
+            examsPanel.Visible = false;
+            settingsPanel.Visible = false;
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            dashboardPanel.Visible = true;
 
         }
 
@@ -50,8 +54,46 @@ namespace ExamSetter
 
         private void bunifuFlatButton1_Click(object sender, EventArgs e)
         {
-            //dashboard.Visible = true;
+            label2.Text = "Dashboard";
 
+            dashboardPanel.Visible = true;
+            examsPanel.Visible = false;
+            settingsPanel.Visible = false;
+
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void bunifuFlatButton2_Click(object sender, EventArgs e)
+        {
+            label2.Text = "Exams";
+
+
+            dashboardPanel.Visible = false;
+            examsPanel.Visible = true;
+            settingsPanel.Visible = false;
+        }
+
+        private void examsPanel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuFlatButton3_Click(object sender, EventArgs e)
+        {
+            label2.Text = "Settings";
+
+            dashboardPanel.Visible = false;
+            examsPanel.Visible = false;
+            settingsPanel.Visible = true;
         }
     }
 }

@@ -10,3 +10,4 @@ c:\users\fahad\documents\visual studio 2012\Projects\ExamSetter\ExamSetter\obj\D
 c:\users\fahad\documents\visual studio 2012\Projects\ExamSetter\ExamSetter\obj\Debug\ExamSetter.pdb
 c:\users\fahad\documents\visual studio 2012\Projects\ExamSetter\ExamSetter\bin\Debug\Bunifu_UI_v1.4.dll
 C:\Users\fahad\documents\visual studio 2012\Projects\ExamSetter\ExamSetter\obj\Debug\ExamSetter.dashboardControl.resources
+C:\Users\fahad\documents\visual studio 2012\Projects\ExamSetter\ExamSetter\obj\Debug\ExamSetter.UserControl1.resources
