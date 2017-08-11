@@ -1,6 +1,6 @@
-﻿namespace ExamSetter
+﻿namespace ExamSetter.UserControls
 {
-    partial class dashboardControl
+    partial class UcDashboard
     {
         /// <summary> 
         /// Required designer variable.

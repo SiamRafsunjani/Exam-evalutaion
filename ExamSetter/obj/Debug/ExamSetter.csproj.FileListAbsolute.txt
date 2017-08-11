@@ -10,3 +10,15 @@ c:\users\fahad\documents\visual studio 2012\Projects\ExamSetter\ExamSetter\obj\D
 c:\users\fahad\documents\visual studio 2012\Projects\ExamSetter\ExamSetter\obj\Debug\ExamSetter.pdb
 c:\users\fahad\documents\visual studio 2012\Projects\ExamSetter\ExamSetter\bin\Debug\Bunifu_UI_v1.4.dll
 C:\Users\fahad\documents\visual studio 2012\Projects\ExamSetter\ExamSetter\obj\Debug\ExamSetter.dashboardControl.resources
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\bin\Debug\ExamSetter.exe.config
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\bin\Debug\ExamSetter.exe
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\bin\Debug\ExamSetter.pdb
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\bin\Debug\MaterialSkin.dll
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\obj\Debug\ExamSetter.csprojResolveAssemblyReference.cache
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\obj\Debug\ExamSetter.Properties.Resources.resources
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\obj\Debug\ExamSetter.csproj.GenerateResource.Cache
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\obj\Debug\ExamSetter.exe
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\obj\Debug\ExamSetter.pdb
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\obj\Debug\ExamSetter.UserControls.UcDashboard.resources
+C:\Users\Raihan\Documents\Visual Studio 2012\Projects\Exam-evalutaion\ExamSetter\obj\Debug\ExamSetter.MainForm.resources
