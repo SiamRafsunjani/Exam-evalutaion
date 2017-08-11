@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ExamSetter.Properties
+namespace Exam_evaluation.Properties
 {
 
 

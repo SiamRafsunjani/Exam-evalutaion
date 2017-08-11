@@ -1,0 +1,2 @@
+c:\users\fahad\documents\visual studio 2012\Projects\Exam-evaluation\Exam-evaluation\bin\Debug\Exam-evaluation.exe.config
+C:\Users\fahad\Documents\Visual Studio 2012\Projects\ExamSetter\Exam-evaluation\bin\Debug\Exam-evaluation.exe.config
