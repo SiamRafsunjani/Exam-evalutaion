@@ -1,2 +1,14 @@
 c:\users\fahad\documents\visual studio 2012\Projects\Exam-evaluation\Exam-evaluation\bin\Debug\Exam-evaluation.exe.config
 C:\Users\fahad\Documents\Visual Studio 2012\Projects\ExamSetter\Exam-evaluation\bin\Debug\Exam-evaluation.exe.config
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\bin\Debug\Exam-evaluation.exe.config
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\bin\Debug\Exam-evaluation.exe
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\bin\Debug\Exam-evaluation.pdb
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\obj\Debug\Exam-evaluation.csprojResolveAssemblyReference.cache
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\obj\Debug\Exam_evaluation.Form1.resources
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\obj\Debug\Exam_evaluation.LogIn.resources
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\obj\Debug\Exam_evaluation.Properties.Resources.resources
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\obj\Debug\Exam-evaluation.csproj.GenerateResource.Cache
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\obj\Debug\Exam-evaluation.exe
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\obj\Debug\Exam-evaluation.pdb
+C:\Users\D3\Documents\Visual Studio 2013\Projects\Exam-evalutaion-master\Exam-evaluation\obj\Debug\Exam_evaluation.Registration.resources
