@@ -26,7 +26,8 @@ namespace Exam_evaluation
 
         private void bunifuFlatButton1_Click(object sender, EventArgs e)
         {
-           
+            this.MainWindow.Controls.Clear();
+            this.MainWindow.Controls.Add(new Dashboard(this.MainWindow));  
         }
 
         private void bunifuFlatButton2_Click(object sender, EventArgs e)

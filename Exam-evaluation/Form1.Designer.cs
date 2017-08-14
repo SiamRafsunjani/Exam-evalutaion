@@ -33,8 +33,7 @@
             // 
             // MainWindow
             // 
-            this.MainWindow.Location = new System.Drawing.Point(2, 0);
-            this.MainWindow.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.MainWindow.Location = new System.Drawing.Point(1, 0);
             this.MainWindow.Name = "MainWindow";
             this.MainWindow.Size = new System.Drawing.Size(1200, 700);
             this.MainWindow.TabIndex = 0;
@@ -42,11 +41,10 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1178, 644);
+            this.ClientSize = new System.Drawing.Size(1184, 661);
             this.Controls.Add(this.MainWindow);
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
